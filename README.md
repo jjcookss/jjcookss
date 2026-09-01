@@ -1,21 +1,4 @@
-<h2>🚀 About Me</h2> 
-
-**⚡ Check out my website to learn more about me:** [wwidjaja.com](https://wwidjaja.com)
-
-🌱 I’m a Computer Science major @ UCSD working towards my bachelors.
-
-I'm currently working on:
-<ul>
-  <li>Applying for internships...</li>
-  <li>CSE 131, 151A, 152A</li>
-  <li>My internship with Altheros Capital and my Student Manager role at the UCSD Triton Box Office.</li>
-  <li>A Discord bot for the Poker Club @ UC San Diego.</li>
-</ul>
-
-### 🛠️ **My Tech Stack**
-[comment]: **Backend**
-[comment]: **Databases**
-[comment]: **DevOps&Cloud**
+[wwidjaja.com](https://wwidjaja.com)
 
 <details open>
   <summary>Languages I've Coded In</summary>
